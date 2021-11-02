@@ -1,4 +1,4 @@
-### Hi there, I'm Ciara 👩🏾‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Ciara 👩🏾‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 I'm a passionate Software Engineer from Philadelphia, PA looking to network and collaborate within the tech community and provide tech solution for businesses. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I enjoy working with NodeJS, JavaScript and APIs.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/88999595/139790515-f98a3ee3-3057-4fcf-b6f7-46666b7d8d36.gif" width="500" height="320" />
