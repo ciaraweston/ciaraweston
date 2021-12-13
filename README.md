@@ -52,7 +52,7 @@ I'm a passionate software engineer based in Philadelphia, PA, with a love for fr
     >
 </a>
 
-
+## Connect with me via email info@ciaraweston.com or check out my <a href="https://ciaraweston.com target=_blank">Portfolio</a>
 
 
 
