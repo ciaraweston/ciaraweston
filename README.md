@@ -29,10 +29,10 @@ I'm a passionate software engineer based in Philadelphia, PA, with a love for fr
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ---
 
-## ✏️ Currently Leanring
-🎨 **ReactJS** 
+## ✏️ Currently Learning
+🎨  **ReactJS** 
 
-🖥️ **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be *learning* JavaScript
+🖥️  **JavaScript** - It doesn't matter how long I've used JavaScript, I'll always be *learning* JavaScript
 
 ---
 
