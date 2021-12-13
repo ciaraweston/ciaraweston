@@ -13,7 +13,7 @@ I'm a passionate software engineer based in Philadelphia, PA, with a love for fr
 
 ✈️  I love to travel to new places, but *somehow* always find myself booking trips to Disney World
 
-🎮  If I'm not coding or creating content, you'll likely find me playing a video game. My face game of all time is **Sims 4**, but the game I loved the most this year was **Cyberpunk 2077**
+🎮  If I'm not coding or creating content, you'll likely find me playing a video game. My favorite game of all time is **Sims 4**, but the game I loved the most this year was **Cyberpunk 2077**
 
 ---
 
