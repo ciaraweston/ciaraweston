@@ -1,7 +1,7 @@
 ![ciaragithubbannerone](https://user-images.githubusercontent.com/88999595/145743092-40020998-f17e-4fca-b3ba-2594f546f333.gif)
 # 👋🏾 Hey, I'm Ciara!
 
-I'm a passionate software engineer based in Philadelphia, PA, with a love for front-end web development. I strive to make the technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes I've made and lessons I've learned along my software engineering journey so far. I'm also looking to network and collaborate within the tech community and provide tech solution for businesses. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+I'm a passionate software engineer based in Charlotte, NC, with a love for front-end web development. I strive to make the technology industry more accessible to aspiring developers and engineers by creating content to share the mistakes I've made and lessons I've learned along my software engineering journey so far. I'm also looking to network and collaborate within the tech community and provide tech solution for businesses. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 **Fun Facts**
 
